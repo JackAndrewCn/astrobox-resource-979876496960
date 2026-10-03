@@ -1,0 +1,63 @@
+{
+  "item": {
+    "id": "979876496960",
+    "restype": "watchface",
+    "name": "realive 3",
+    "description": "DayArt realive 3, 现在Xiaomi手环9/10/11呈现. 前往爱发电获取完整版本: https://afdian.com/item/f9747a8054b911f0a8c052540025c377",
+    "preview": [
+      "media/1000027288.png",
+      "media/1000027289.png",
+      "media/1000027290.png",
+      "media/1000027291.png",
+      "media/1000027292.png"
+    ],
+    "icon": "media/1000027286.png",
+    "cover": "media/1000027287.jpg",
+    "author": [
+      {
+        "name": "2minRain",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "微信公众号",
+      "url": "https://weixin.qq.com/r/mp/I0WPl_TE37mgraD09xAx",
+      "icon": "wechat-logo"
+    },
+    {
+      "title": "抖音宣传平台",
+      "url": "https://v.douyin.com/E5iEO1O9Bak/ 9@8.com :5pm",
+      "icon": "tiktok-logo"
+    }
+  ],
+  "downloads": {
+    "xmb9": {
+      "version": "1.1.0",
+      "file_name": "downloads/realive-3-N66-1.1.0-release-coratech.bin",
+      "versionCode": 65792
+    },
+    "xmb10": {
+      "version": "1.2.0",
+      "file_name": "downloads/realive-3-1.2.0-beta-coratech.bin",
+      "versionCode": 66048
+    },
+    "xmb10nfc": {
+      "version": "1.2.0",
+      "file_name": "downloads/realive-3-1.2.0-beta-coratech.bin",
+      "versionCode": 66048
+    },
+    "xmb11": {
+      "version": "1.2.0",
+      "file_name": "downloads/realive-3-1.2.0-beta-coratech.bin",
+      "versionCode": 66048
+    },
+    "xmb11nfc": {
+      "version": "1.2.0",
+      "file_name": "downloads/realive-3-1.2.0-beta-coratech.bin",
+      "versionCode": 66048
+    }
+  },
+  "ext": {}
+}
